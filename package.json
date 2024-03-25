@@ -1,0 +1,17 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "publish": "lerna publish"
+  },
+  "dependencies": {
+    "markdownlint": "^0.34.0"
+  },
+  "devDependencies": {
+    "lerna": "^8.1.2"
+  }
+ 
+}

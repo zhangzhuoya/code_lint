@@ -1,0 +1,23 @@
+{
+  "name": "zhuo-markdownlint-config",
+  "version": "1.0.0",
+  "description": "markdownlint",
+  "main": "index.js",
+  "keywords": [
+    "markdown",
+    "lint",
+    "encode"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zhangzhuo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhangzhuoya/code_lint.git"
+  },
+  "license": "ISC",
+  "peerDependencies": {
+    "markdownlint": "^0.28.1"
+  }
+}
