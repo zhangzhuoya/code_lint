@@ -1,6 +1,6 @@
 {
   "name": "zhuo-markdownlint-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "markdownlint",
   "main": "index.js",
   "keywords": [
@@ -19,5 +19,6 @@
   "license": "ISC",
   "peerDependencies": {
     "markdownlint": "^0.34.0"
-  }
+  },
+  "gitHead": "f42cb814200b304250508528093dfbef0b92c73c"
 }
